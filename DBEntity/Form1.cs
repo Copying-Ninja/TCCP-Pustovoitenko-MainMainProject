@@ -131,7 +131,7 @@ namespace DBEntity
             Clear();
             PopulateDataGridView();
             MessageBox.Show("Зміни_1");
-            Console.WriteLine("Зміни_2");
+            Console.WriteLine("Змінено з браузера");
         }
     }
 }
