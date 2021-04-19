@@ -130,6 +130,7 @@ namespace DBEntity
         {
             Clear();
             PopulateDataGridView();
+            MessageBox.Show("Зміни_1");
         }
     }
 }
